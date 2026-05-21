@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luqmannnn/serverless-package-scan.git"
+    "url": "git+https://github.com/nztycode/serverless-package-scan.git"
   },
-  "author": "luqman",
+  "author": "nas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luqmannnn/serverless-package-scan/issues"
+    "url": "https://github.com/nztycode/serverless-package-scan/issues"
   },
-  "homepage": "https://github.com/luqmannnn/serverless-package-scan#readme"
+  "homepage": "https://github.com/nztycode/serverless-package-scan#readme"
 }
